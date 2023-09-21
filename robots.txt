@@ -1,0 +1,3 @@
+Sitemap: https://www.thahirudin.com/sitemap.xml
+User-agent: *
+Disallow: /admin/
